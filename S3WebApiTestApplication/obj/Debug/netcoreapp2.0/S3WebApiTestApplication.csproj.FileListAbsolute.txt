@@ -1,0 +1,13 @@
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\S3WebApiTestApplication.deps.json
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\S3WebApiTestApplication.runtimeconfig.json
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\S3WebApiTestApplication.runtimeconfig.dev.json
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\S3WebApiTestApplication.dll
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\bin\Debug\netcoreapp2.0\S3WebApiTestApplication.pdb
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.AssemblyInfoInputs.cache
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.AssemblyInfo.cs
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.csproj.CoreCompileInputs.cache
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.dll
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.pdb
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.genruntimeconfig.cache
+C:\Users\viki4\Desktop\AR App Logos\S3WebApiTestApplication\S3WebApiTestApplication\S3WebApiTestApplication\obj\Debug\netcoreapp2.0\S3WebApiTestApplication.csprojAssemblyReference.cache
